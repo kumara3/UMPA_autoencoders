@@ -1,0 +1,60 @@
+-- Epoch 1
+Norm: 0.10, NNZs: 4, Bias: 0.296918, T: 85, Avg. loss: 0.375247
+Total training time: 0.00 seconds.
+-- Epoch 2
+Norm: 0.14, NNZs: 4, Bias: 0.445589, T: 170, Avg. loss: 0.218026
+Total training time: 0.00 seconds.
+-- Epoch 3
+Norm: 0.18, NNZs: 4, Bias: 0.547873, T: 255, Avg. loss: 0.146141
+Total training time: 0.00 seconds.
+-- Epoch 4
+Norm: 0.20, NNZs: 4, Bias: 0.623540, T: 340, Avg. loss: 0.105265
+Total training time: 0.00 seconds.
+-- Epoch 5
+Norm: 0.22, NNZs: 4, Bias: 0.681678, T: 425, Avg. loss: 0.080101
+Total training time: 0.00 seconds.
+-- Epoch 6
+Norm: 0.24, NNZs: 4, Bias: 0.727440, T: 510, Avg. loss: 0.063851
+Total training time: 0.00 seconds.
+-- Epoch 7
+Norm: 0.25, NNZs: 4, Bias: 0.764086, T: 595, Avg. loss: 0.052999
+Total training time: 0.00 seconds.
+-- Epoch 8
+Norm: 0.26, NNZs: 4, Bias: 0.793816, T: 680, Avg. loss: 0.045564
+Total training time: 0.00 seconds.
+-- Epoch 9
+Norm: 0.27, NNZs: 4, Bias: 0.818186, T: 765, Avg. loss: 0.040362
+Total training time: 0.00 seconds.
+-- Epoch 10
+Norm: 0.28, NNZs: 4, Bias: 0.838332, T: 850, Avg. loss: 0.036659
+Total training time: 0.00 seconds.
+-- Epoch 11
+Norm: 0.29, NNZs: 4, Bias: 0.855105, T: 935, Avg. loss: 0.033981
+Total training time: 0.00 seconds.
+-- Epoch 12
+Norm: 0.29, NNZs: 4, Bias: 0.869154, T: 1020, Avg. loss: 0.032018
+Total training time: 0.00 seconds.
+-- Epoch 13
+Norm: 0.30, NNZs: 4, Bias: 0.880984, T: 1105, Avg. loss: 0.030562
+Total training time: 0.00 seconds.
+-- Epoch 14
+Norm: 0.30, NNZs: 4, Bias: 0.890993, T: 1190, Avg. loss: 0.029469
+Total training time: 0.00 seconds.
+-- Epoch 15
+Norm: 0.31, NNZs: 4, Bias: 0.899495, T: 1275, Avg. loss: 0.028640
+Total training time: 0.00 seconds.
+-- Epoch 16
+Norm: 0.31, NNZs: 4, Bias: 0.906745, T: 1360, Avg. loss: 0.028004
+Total training time: 0.00 seconds.
+-- Epoch 17
+Norm: 0.32, NNZs: 4, Bias: 0.912948, T: 1445, Avg. loss: 0.027513
+Total training time: 0.00 seconds.
+-- Epoch 18
+Norm: 0.32, NNZs: 4, Bias: 0.918271, T: 1530, Avg. loss: 0.027130
+Total training time: 0.00 seconds.
+-- Epoch 19
+Norm: 0.32, NNZs: 4, Bias: 0.922853, T: 1615, Avg. loss: 0.026828
+Total training time: 0.00 seconds.
+Convergence after 19 epochs took 0.00 seconds
+Learning Rate, invscaling, MSE Test:, 0.085, MSE Train: 0.053:
+Learning Rate, invscaling, R^2 Test: 0.568, R^2 Train 0.654
