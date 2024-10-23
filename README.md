@@ -1,11 +1,10 @@
 
 
-**###Dimensionality reduction in single cell data using autoencoders###**
+**Dimensionality reduction in single cell data using autoencoders**
 
 
-**###Dependencies###**
+**#Dependencies**
 ```
-
 1) The code has been written in python programming language
 2) Requirement for running the code
 a) All the below libraries must be present/installed.
